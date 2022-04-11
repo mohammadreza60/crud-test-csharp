@@ -9,8 +9,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Shared\Mc2.CrudTest.Shared.csproj" />
-    <ProjectReference Include="..\Front\Mc2.CrudTest.Presentation.Front.csproj" />
+    <ProjectReference Include="..\Shared\10_Mc2.CrudTest.Shared.csproj" />
+    <ProjectReference Include="..\Front\30_Mc2.CrudTest.Presentation.Front.csproj" />
   </ItemGroup>
 
 
